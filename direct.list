@@ -4,5 +4,6 @@ DOMAIN, audio-fa.scdn.co, direct
 DOMAIN, audio4-fa.scdn.co, direct
 DOMAIN, audio-ak-spotify-com.akamaized.net, direct
 DOMAIN, audio4-ak-spotify-com.akamaized.net, direct
+DOMAIN, video-akpcw-cdn-spotify-com.akamaized.net, direct
 
-DOMAIN-SUFFIX, apple.com, direct
+DOMAIN, apple.com, direct
