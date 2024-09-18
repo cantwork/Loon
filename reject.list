@@ -4,8 +4,3 @@ DOMAIN-SUFFIX, g1.tagtic.cn, reject
 DOMAIN-SUFFIX, adeventtracker.spotify.com, reject
 DOMAIN-SUFFIX, ads-fa.cdn.spotify.com, reject
 DOMAIN-SUFFIX, ad-static-xg.tagtic.cn, reject
-#阿里
-DOMAIN-SUFFIX, adashx.ut.amap.com, reject
-DOMAIN-SUFFIX, adashx.ut.cainiao.com, reject
-DOMAIN-SUFFIX, adashx.ut.ele.me, reject
-DOMAIN-SUFFIX, adashx.ut.taobao.com, reject
