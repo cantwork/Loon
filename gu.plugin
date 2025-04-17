@@ -1,0 +1,10 @@
+#!name = 自选股
+#!desc = 过滤自选股文章详情接口中的广告信息和特定内容
+#!openUrl = https://apps.apple.com/app/id485653572
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.3.0(853)
+#!icon = https://pp.myapp.com/ma_icon/0/icon_206354_1743388645/256
+
+[Script] http-response ^https://snp.tenpay.com/cgi-bin/snpgw_unified_newsinfo.fcgi script-path=https://example.com/TenpayNewsFilter.js, requires-body=true, timeout=10, tag=TenpayNewsFilter
