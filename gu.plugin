@@ -7,4 +7,7 @@
 #!loon_version = 3.3.0(853)
 #!icon = https://pp.myapp.com/ma_icon/0/icon_206354_1743388645/256
 
-[Script] http-response ^https://snp.tenpay.com/cgi-bin/snpgw_unified_newsinfo.fcgi script-path=https://example.com/TenpayNewsFilter.js, requires-body=true, timeout=10, tag=TenpayNewsFilter
+[Script] http-response ^https://snp.tenpay.com/cgi-bin/snpgw_unified_newsinfo.fcgi script-path=https://raw.githubusercontent.com/cantwork/Loon/refs/heads/main/gu.js, requires-body=true, timeout=10, tag=TenpayNewsFilter
+
+[MitM]
+hostname = snp.tenpay.com
