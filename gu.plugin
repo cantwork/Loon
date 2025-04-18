@@ -17,4 +17,4 @@
 http-response ^https://snp.tenpay.com/cgi-bin/snpgw_unified_newsinfo.fcgi script-path=https://raw.githubusercontent.com/cantwork/Loon/main/gu.js, requires-body=true, tag=TenpayNewsFilter
 
 [MitM]
-hostname = snp.tenpay.com, wzq.tenpay.com
+hostname = wzq.tenpay.com,  snp.tenpay.com
