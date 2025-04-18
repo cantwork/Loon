@@ -9,8 +9,8 @@
 
 [Rewrite] 
 # 文章底部分享
-^https:\/\/wzq\.tenpay\.com\/cgi-bin\/abt_info\.fcgi$ reject
-^https:\/\/wzq\.tenpay\.com\/cgi-bin\/activity\.fcgi$ reject
+^https://wzq.tenpay.com/cgi-bin/abt_info.fcgi reject
+^https://wzq.tenpay.com/cgi-bin/activity.fcgi reject
 
 [Script]
 # 文章底部ad
