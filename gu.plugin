@@ -1,5 +1,5 @@
 #!name = 自选股
-#!desc = 过滤自选股文章详情接口中的广告信息和特定内容
+#!desc = 过滤自选股文章接口的广告
 #!openUrl = https://apps.apple.com/app/id485653572
 #!tag = 去广告
 #!system = 
