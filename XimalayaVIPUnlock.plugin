@@ -6,7 +6,7 @@ author = 怎么肥事
 pattern = ^https:\/\/mobile\.ximalaya\.com\/mobile-playpage\/(?:track\/v4\/baseInfo|playpage\/recommendContentV2|playpage\/tabs\/v2)
 
 [Script]
-http-request = script-path=https://raw.githubusercontent.com/ZenmoFeiShi/Qx/refs/heads/main/XMLYVIP.js, requires-header=true, script-type=http-request
+http-request = script-path=https://raw.githubusercontent.com/cantwork/Loon/main/XMLYVIP.js, requires-header=true, script-type=http-request
 
 [Mitm]
 hostname = mobile.ximalaya.com, 101.91.13.*
