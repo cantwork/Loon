@@ -3,7 +3,7 @@
 #!version = 1.0
 #!desc = 解锁.喜.马.拉.雅.vip
 #!author = 怎么肥事
-#!icon=https://www.google.com/s2/favicons?sz=64&domain=ximalaya.com
+#!icon=https://www.google.com/s2/favicons?sz=128&domain=ximalaya.com
 pattern = ^https:\/\/mobile\.ximalaya\.com\/mobile-playpage\/(?:track\/v4\/baseInfo|playpage\/recommendContentV2|playpage\/tabs\/v2)
 
 [Script]
