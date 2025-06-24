@@ -10,4 +10,5 @@ pattern = ^https:\/\/mobile\.ximalaya\.com\/mobile-playpage\/(?:track\/v4\/baseI
 http-request = script-path=https://raw.githubusercontent.com/cantwork/Loon/main/XMLYVIP.js, requires-header=true, script-type=http-request
 
 [Mitm]
-hostname = mobile.ximalaya.com, 101.91.13.*
+hostname = mobile.ximalaya.com
+#101.91.13.*
