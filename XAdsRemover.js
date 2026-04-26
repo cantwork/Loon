@@ -1,4 +1,3 @@
-```javascript
 /*
  * XAdsRemover
  * Author: ChatGPT
@@ -47,4 +46,3 @@
     $done({});
   }
 })();
-```
